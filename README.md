@@ -1,4 +1,4 @@
-# Design_a_Signed_Booth_multiplier_and_ALU
+# CSIE DIC LAB--Design a Signed Booth multiplier and ALU
 ## Design a Signed Booth multiplier and Arithmetic Logic Unit (ALU)
 
 The Booth multiplier Unit.  
